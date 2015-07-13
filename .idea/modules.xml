@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spark.iml" filepath="$PROJECT_DIR$/.idea/spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spark-1.4.0-bin-hadoop2.6/.idea/spark-1.4.0-bin-hadoop2.6.iml" filepath="$PROJECT_DIR$/../spark-1.4.0-bin-hadoop2.6/.idea/spark-1.4.0-bin-hadoop2.6.iml" />
+    </modules>
+  </component>
+</project>
